@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GLFWCMakeSetup-master",
+    "\\GLFWCMakeSetup-master\\src",
+    "\\GLFWCMakeSetup-master\\thirdparty",
+    "\\GLFWCMakeSetup-master\\thirdparty\\imgui-docking",
+    "\\GLFWCMakeSetup-master\\thirdparty\\imgui-docking\\imgui",
+    "\\GLFWCMakeSetup-master\\thirdparty\\imgui-docking\\imgui\\examples",
+    "\\GLFWCMakeSetup-master\\thirdparty\\imgui-docking\\imgui\\examples\\example_glfw_opengl2",
+    "\\GLFWCMakeSetup-master\\thirdparty\\imgui-docking\\imgui\\examples\\example_sdl2_vulkan"
+  ],
+  "SelectedNode": "\\GLFWCMakeSetup-master\\thirdparty\\imgui-docking\\imgui\\examples\\example_sdl2_vulkan\\example_sdl2_vulkan.vcxproj",
+  "PreviewInSolutionExplorer": false
+}
