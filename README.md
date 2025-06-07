@@ -1,7 +1,9 @@
 *Note To self* 
 Feature Search:CMake select:CMake (File > Open >CMake)
 
-Links to useful sources.
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+OpenGL Gradient vs Window Pixel Coord Plane
 
 *Easier to use [0, width of window] rather than [-1, 1]*
 
@@ -11,13 +13,9 @@ Likewise
 
 If B > 1/2(width) then: B - 1/2(width) / 1/2(width) = OpenGL units [-1, 1]
 
-...---+++*****\   _....._       _....._  
-\              \  \       \   /       /
- \...---.	  +****  \       `*`       /
-         \	 \      \     _  _      /  
-      	  \....\     \...\ `` /..../
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 
-~Links~
+Links
 
 Learn OpenGL 
 https://learnopengl.com/
