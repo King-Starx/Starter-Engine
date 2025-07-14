@@ -1,5 +1,6 @@
 *Note To self* 
 Feature Search:CMake select:CMake (File > Open >CMake)
+Also Keep on x86 Debug (IDK why skull) OE<
 
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 
